@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Jun 01 12:49:44 CEST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.17.1.0 - (1913217): instance a816c00e-0197-2b1c-9cbb-0000028f7428 
+on database directory /tmp/gfembed8705767752870241895tmp/lib/databases/embedded_default with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15327b79 
+Loaded from file:/home/ondro/.m2/repository/org/glassfish/main/extras/glassfish-embedded-all/8.0.0-M12/glassfish-embedded-all-8.0.0-M12.jar
+java.vendor=Azul Systems, Inc.
+java.runtime.version=21+35
+user.dir=/home/ondro/workspaces/OmniFish-presentations/Jakarta EE 11 Security 4.0/code
+os.name=Linux
+os.arch=amd64
+os.version=6.8.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
